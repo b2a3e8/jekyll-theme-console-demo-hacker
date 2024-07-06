@@ -1,7 +1,7 @@
 title: 'b2a3e8.github.io'
-description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+description: "Juliya's Website"
 baseurl: "/jekyll-theme-console-demo-hacker"
-url: "https://b2a3e8.github.io"
+url: "https://mothralady.github.io"
 
 header_pages:
   - index.md
@@ -11,7 +11,7 @@ header_pages:
 
 style: hacker
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'do you like <a href="https://redheads.dev">redheads?</a>'
 
 # Build settings
 markdown: kramdown
